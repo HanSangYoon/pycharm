@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="913ff8ec-3d8c-4f24-afc0-b0762028ce60" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_project.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aster_jeniel_test_dev_201808" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="facebook_test_articles_replies.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aster879_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_replies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="32" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="aster_crawling_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlerBot_package_JUST_TEST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster_jeniel_test_dev_201808" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster_jeniel_test_dev_201808" type="462c0819:PsiDirectoryNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlerBot_package_JUST_TEST" type="462c0819:PsiDirectoryNode" />
+              <item name="For_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/python_project_SCI_20180716/aster879_project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="facebook_test_articles_replies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aster879_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aster879_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_replies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.facebook_test_articles_replies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="913ff8ec-3d8c-4f24-afc0-b0762028ce60" name="Default" comment="" />
+      <created>1527640707845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527640707845</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit for jeniel Project">
+      <created>1533700940647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533700940647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32934782" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32934782" />
+      <window_info anchor="bottom" x="32767" y="32149" width="65535" height="65535" id="Run" order="2" type="FLOATING" weight="0.32934782" />
+      <window_info id="Structure" order="1" sideWeight="0.5008104" side_tool="true" visible="true" weight="0.24960506" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32934782" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit for jeniel Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit for jeniel Project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aster879_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_replies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/callTest.py" />
+    <entry file="file://$PROJECT_DIR$/aster879_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_replies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection.py" line="422" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cfdfffc-cbad-4b0a-ac48-19f51156a753" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/aster879_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aster879_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot_jeniel.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot_jeniel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection_jeniel.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection_jeniel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/worknetCrawlerBot_just.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/worknetCrawlerBot_just.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startWebserver_Jeniel.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startWebserver_Jeniel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just_20180813.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just_20180813.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_6_28_13_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_6_28_13_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_6_28_14_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_6_28_14_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_6_28_18_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_6_28_18_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_10_10_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_10_10_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_10_23_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_10_23_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_10_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_10_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_12_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_12_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_13_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_13_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_14_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_14_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_15_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_15_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_16_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_16_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_17_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_17_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_18_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_18_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_9_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_11_9_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_12_10_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_12_10_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_12_11_MAIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/FaceBook_crawlerbot_logging_2018_7_12_11_Tscore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_6_29_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_10_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_12_18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_12_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_12_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_12_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_12_23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_13_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_14_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/Instagram_crawlerbot_logging_2018_7_9_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_6_29_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_10_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_12_23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_13_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_14_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/KakaoStory_crawlerbot_logging_2018_7_9_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_6_29_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_10_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_12_18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_12_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_12_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_12_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_12_23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/NaverBlog_crawlerbot_logging_2018_7_9_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_17.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_17.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_26_18.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_16.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_16.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_16.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_17.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_17.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_17.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_27_19.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_6.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_6_29_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_10_9.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_4_19.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_17.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_17.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log/worknet_crawlerbot_logging_2018_7_9_9.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../긍정어4.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aster879_project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="worknetCrawlerBot_just.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/worknetCrawlerBot_just.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+              <folding>
+                <element signature="e#47#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbConnectionTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/dbConnectionTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysqlConnectionjus.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnectionjus.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1958">
+              <caret line="90" column="33" selection-start-line="44" selection-end-line="90" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>아@저@의사는@시비걸면@내가@한대@맞을@수도@있겠구나'@싶을@</find>
+      <find>returnedResultDict['해당월게시물개수']</find>
+      <find>게시글이 공개되지 않았습니다.</find>
+      <find>regArticleDateCnt</find>
+      <find>.replace(&quot;'&quot;</find>
+      <find>dateVal</find>
+      <find>articleRegisterDate</find>
+      <find>articleCnt</find>
+      <find>대표자명_</find>
+      <find>대표자명</find>
+      <find>getPagination(</find>
+      <find>couldScrolling(</find>
+      <find>autoScroller(</find>
+      <find>infoTable_content_No</find>
+      <find>returnedselectDataList</find>
+      <find>insert_new_record</find>
+      <find>result_workNetDictionaty</find>
+      <find>DBINSERT_FALSE</find>
+      <find>중요</find>
+      <find>운영년수</find>
+      <find>년도 리스트</find>
+      <find>년도</find>
+      <find>relationship name</find>
+      <find>거주지 출력 부분은 구조가 1 depth 깊음</find>
+      <find>채용담당자</find>
+      <find>인사</find>
+      <find>인사담</find>
+      <find>comScale</find>
+      <find>select_record</find>
+      <find>인사담당자이메일</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/callTest.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/readTestCSV.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/readTestCSVFiles.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/Getting_TrustScore.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/distribute_packages/facebookCrawlerBot_new.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/testReadingTextFile.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/callTest_2.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/aster_crawling_modules/call_AllFxs.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/aster_crawling_modules/call_AllFxs_direct.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startPoint_localWebServer.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/startWebserver_SCI.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startWebserver_SCI.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/naverBlogCrawlerBot.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/kakaostoryCrawlerBot.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/dbConnectionTest.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/worknet_just/facebook_test.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/facebook_test.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/call_allFuctions_facebook.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/facebookCrawlerBot_jeniel_GODOHWA.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/call_allFuctions.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_friends.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_likes.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_map.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_events.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_movies.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/alterAttributesValue.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_replies.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/distribute_packages/readTestCSVFiles.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/instagramCrawlerBot.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/instagramCrawlerBot_hychoi.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/textTokenizerTest.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/readTextFile.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/readTestCSV.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_about_overview.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_posotiveExpression.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknetCrawlerBot.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/worknetCrawlerBot_just_login.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/worknet_just/mysqlConnection_just.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startWebserver_Jeniel.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection_jeniel.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot_jeniel.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just_20180813.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just_getEmail.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just_backup.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnectionjus.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/worknetCrawlerBot_just.py" />
+        <option value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/dbConnectionTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="40" />
+    <option name="width" value="1930" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="aster_crawling_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlerBot_package_JUST_TEST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlerBot_package_JUST_TEST" type="462c0819:PsiDirectoryNode" />
+              <item name="NotUsingJSONDATAType" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="crawling_modules_v1804" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlerBot_package_JUST_TEST" type="462c0819:PsiDirectoryNode" />
+              <item name="NotUsingJSONDATAType" type="462c0819:PsiDirectoryNode" />
+              <item name="worknet_just" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aster879_project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aster879_project" type="462c0819:PsiDirectoryNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="worknet_just" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/python_project/aster879_project/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot_new.py&#10;print&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_project_SCI_20180716\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST" />
+      <recent name="C:\python_project_SCI_20180716\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST\NotUsingJSONDATAType" />
+      <recent name="C:\python_project\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST\NotUsingJSONDATAType\distribute_packages" />
+      <recent name="C:\python_project\aster879_project\tcmscore_generator\webservers" />
+      <recent name="C:\python_project\aster879_project\tcmscore_generator\calculator_TCMSCORE" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev_syhan\aster_jeniel_test_dev_201808\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST\NotUsingJSONDATAType\worknet_just" />
+      <recent name="C:\dev_syhan\aster_jeniel_test_dev_201808\aster879_project\PycharmProjects\worknet_just" />
+      <recent name="C:\dev_syhan\aster_jeniel_test_dev_201808\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST\For_test" />
+      <recent name="C:\dev_syhan\aster_jeniel_test_dev_201808\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST\NotUsingJSONDATAType" />
+      <recent name="C:\python_project_SCI_20180716\aster879_project\PycharmProjects\crawling_modules_v1804\crawlerBot_package_JUST_TEST\For_test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.worknetCrawlerBot_just">
+    <configuration name="mysqlConnection_j" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aster879_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_j.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlConnection_just" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aster879_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlConnectionjus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aster879_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnectionjus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlConnectionjust" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aster879_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnectionjust.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="worknetCrawlerBot_just" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aster879_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/worknetCrawlerBot_just.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.mysqlConnection_j" />
+      <item itemvalue="Python.worknetCrawlerBot_just" />
+      <item itemvalue="Python.mysqlConnection_just" />
+      <item itemvalue="Python.mysqlConnectionjust" />
+      <item itemvalue="Python.mysqlConnectionjus" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.worknetCrawlerBot_just" />
+        <item itemvalue="Python.mysqlConnectionjus" />
+        <item itemvalue="Python.mysqlConnectionjust" />
+        <item itemvalue="Python.mysqlConnection_just" />
+        <item itemvalue="Python.mysqlConnection_j" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cfdfffc-cbad-4b0a-ac48-19f51156a753" name="Default" comment="" />
+      <created>1521846822642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521846822642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1544" height="840" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.2587923" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32934782" />
+      <window_info anchor="bottom" x="-337" y="486" width="1759" height="133" id="Run" order="2" weight="0.3314367" />
+      <window_info id="Structure" order="1" sideWeight="0.5008104" side_tool="true" weight="0.17482886" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32934782" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008104" side_tool="true" weight="0.17482886" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26630434" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.076677315" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.09347826" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.076677315" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918962" visible="true" weight="0.25962815" />
+      <window_info id="Structure" order="1" sideWeight="0.5008104" side_tool="true" weight="0.17482886" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info active="true" anchor="bottom" x="-337" y="486" width="1759" height="133" id="Run" order="2" visible="true" weight="0.48933142" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.09347826" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32934782" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26630434" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32934782" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32934782" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008104" side_tool="true" weight="0.17482886" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v180320/crawlerBot_package/fbcrwlerCorpMatching_withCSV_PictureContentsTextCrawling.py</url>
+          <line>274</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v180320/crawlerBot_package/fbcrwlerCorpMatching_withCSV_PictureContentsTextCrawling.py</url>
+          <line>283</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python/Lib/site-packages/selenium/webdriver/chrome/options.py</url>
+          <line>169</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_likes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="132" selection-start-line="132" selection-end-line="184" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="131" selection-start-line="131" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="131" selection-start-line="131" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_movies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="206" selection-start-line="130" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/alterAttributesValue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/testReadingTextFile.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24594">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/distribute_packages/facebookCrawlerBot_new.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startWebserver_SCI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3465">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/instagramCrawlerBot_hychoi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="396" column="62" selection-start-line="396" selection-start-column="62" selection-end-line="396" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/instagramCrawlerBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="354" column="46" selection-start-line="354" selection-start-column="46" selection-end-line="354" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/konlpy/utils.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/textTokenizerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="68" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/csv.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/distribute_packages/readTestCSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/distribute_packages/readTestCSVFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_replies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="63" column="62" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/readTextFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/readTestCSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="98" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_about_overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" selection-start-line="9" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_articles_getDates.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot_jeniel_20180813.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="1899" column="30" lean-forward="true" selection-end-line="3132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_posotiveExpression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="685" column="60" selection-start-line="685" selection-start-column="50" selection-end-line="685" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknetCrawlerBot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2558">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/worknetCrawlerBot_test_soloAction_origin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8993" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/worknetCrawlerBot_just.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/mysqlConnection_just.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="1058" selection-start-line="1058" selection-end-line="1058" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/facebook_test_manageContinuous.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just_20180813.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6376">
+          <caret line="489" column="83" selection-start-line="489" selection-start-column="83" selection-end-line="489" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just_getEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13970">
+          <caret line="635" lean-forward="true" selection-start-line="635" selection-end-line="635" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/worknet_just/worknetCrawlerBot_just.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/worknet_just/mysqlConnection_just.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2899">
+          <caret line="149" column="21" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/startWebserver_Jeniel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/For_test/worknetCrawlerBot_just_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="688" lean-forward="true" selection-start-line="688" selection-end-line="688" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/facebookCrawlerBot_jeniel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/mysqlConnection_jeniel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/dbConnectionTest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/dbConnectionsTest.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/dbConnection_Test.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just_backu.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_j_________________________.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_j___.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_j.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnectionjust.py" />
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnection_just_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="90" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/mysqlConnectionjus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="90" column="33" selection-start-line="44" selection-end-line="90" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/dbConnectionTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/crawling_modules_v1804/crawlerBot_package_JUST_TEST/NotUsingJSONDATAType/worknet_just/worknetCrawlerBot_just.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="85" column="27" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

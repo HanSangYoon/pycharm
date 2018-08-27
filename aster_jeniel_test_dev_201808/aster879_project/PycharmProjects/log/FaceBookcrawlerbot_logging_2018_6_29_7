@@ -1,0 +1,1 @@
+[ERROR|facebookCrawlerBot.py:1134] 2018-06-29 07:13:30,476 > [ Error ] MariaDB About information Insertion => insert_record_origin_version() takes 7 positional arguments but 18 were given

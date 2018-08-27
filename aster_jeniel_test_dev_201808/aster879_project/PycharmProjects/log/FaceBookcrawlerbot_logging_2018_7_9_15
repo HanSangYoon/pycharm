@@ -1,0 +1,5 @@
+[ERROR|facebookCrawlerBot.py:1176] 2018-07-09 15:01:15,470 > [ Error ] MariaDB About information Insertion => '전체연락처정보'
+[ERROR|facebookCrawlerBot.py:1176] 2018-07-09 15:02:01,002 > [ Error ] MariaDB About information Insertion => '전체연락처정보'
+[ERROR|facebookCrawlerBot.py:1176] 2018-07-09 15:03:34,130 > [ Error ] MariaDB About information Insertion => '전체연락처정보'
+[ERROR|facebookCrawlerBot.py:1176] 2018-07-09 15:04:15,817 > [ Error ] MariaDB About information Insertion => '전체연락처정보'
+[ERROR|facebookCrawlerBot.py:1176] 2018-07-09 15:08:19,055 > [ Error ] MariaDB About information Insertion => '전체연락처정보'
